@@ -1,4 +1,4 @@
-****# HI, I am Harish!
+# HI, I am Harish!
 
 ### Financial Analyst 
 
